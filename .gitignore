@@ -9,3 +9,10 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+# emacs bin under windows
+bin/
+libexec/
+share/
+var/
+.emacs.d/
