@@ -16,3 +16,4 @@ libexec/
 share/
 var/
 .emacs.d/
+.z
